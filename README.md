@@ -51,7 +51,7 @@ para treinar um pouco mais sobre manipulação do estado no React.
 - Inicia a aplicação com `yarn dev`
 - Inicie o servidor com `yarn server`
 
-Agora você pode acessar [`localhost:8080`](http://localhost:8080) do seu navegador.
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
 
 
