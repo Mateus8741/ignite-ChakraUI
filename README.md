@@ -10,8 +10,6 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
-
  <img src="https://img.shields.io/static/v1?label=Ignite&message=worldtrip&color=04d361&labelColor=000000" alt="Ignite" />
 </p>
 
@@ -53,16 +51,8 @@ para treinar um pouco mais sobre manipulação do estado no React.
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-
-
-&nbsp;
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
 
-Feito com ♥ by Thiago
+Feito com ♥ by Mateus
 
 
